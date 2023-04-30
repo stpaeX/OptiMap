@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/OptiMap/static/css/main.f8d41a88.css",
+    "main.js": "/OptiMap/static/js/main.c579a598.js",
+    "static/js/787.ce1d8cd2.chunk.js": "/OptiMap/static/js/787.ce1d8cd2.chunk.js",
+    "static/media/optibackground.png": "/OptiMap/static/media/optibackground.94000040b929d2f89ea6.png",
+    "static/media/OptiMapLogo.png": "/OptiMap/static/media/OptiMapLogo.215a1eafe3fd3249d0cf.png",
+    "index.html": "/OptiMap/index.html",
+    "main.f8d41a88.css.map": "/OptiMap/static/css/main.f8d41a88.css.map",
+    "main.c579a598.js.map": "/OptiMap/static/js/main.c579a598.js.map",
+    "787.ce1d8cd2.chunk.js.map": "/OptiMap/static/js/787.ce1d8cd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8d41a88.css",
+    "static/js/main.c579a598.js"
+  ]
+}
